@@ -10,3 +10,5 @@ particle system into each slot in the "Galaxy" script.
 Change some settings on the "GalaxyInit" script and enjoy!
 
 I'll see about adding new features, but this math is fairly complicated for me and I don't know what I could do. I'm open to suggestions
+
+![Galaxy](https://user-images.githubusercontent.com/66977504/99730791-06edca80-2a8b-11eb-82aa-c74031578c66.png)
