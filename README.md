@@ -1,5 +1,7 @@
 # Unity-Galaxy
-The start of a galaxy simulation based in Unity.
+The start of a galaxy simulation based in Unity. For reference, I followed (most) of what I could get from here: 
+
+https://beltoforion.de/en/spiral_galaxy_renderer/
 
 # Setup
 It's quite simple to install this. All you need to do is download the scripts and import them into your Unity project. After it's compiled,
